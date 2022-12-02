@@ -1,0 +1,84 @@
+psd to html
+psd
+
+section define - 7
+layout define
+full complete
+
+code comment
+semantic markup
+reusable block
+
+asset gather
+logo
+img
+icon
+text
+font
+
+fonts
+
+css hierarchy
+   font-family
+   font-weight
+   fotm-size
+   color
+   text-transform
+   text-align
+  line-height
+  letter-spacing
+  word-spacing
+
+  width
+  height
+
+  margin - should always be on top
+  padding
+
+reusable block 
+
+fonts
+ inconsolata regular
+ playfair display regular
+ ubuntu light
+ playfair display regular
+ ubuntu light
+
+
+common - body
+
+ui ux
+    1.color combination
+      category
+      logo - color - 2/3
+    
+    2. typography
+        font - 2/3
+       
+    3. consistency
+
+    4. spacing
+
+
+     button/link/
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
+
+font-family: 'Playfair Display', serif;
+font-family: 'Ubuntu', sans-serif;
+
+
+download
+ otf
+ ttf
+ woff
+
+color:
+black #000000
+ash: #626262
+
+html validation
+blog
+img 420*280
